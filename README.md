@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Cabecera animada -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:7c3aed,100:ec4899&height=220&section=header&text=Alejandro&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%26%20Web%20Developer%20%C2%B7%20Node.js%20%26%20TypeScript&descAlignY=58&descSize=19" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:7c3aed,100:ec4899&height=220&section=header&text=Alejandro&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20y%20Web%20Developer%20%C2%B7%20Node.js%20y%20TypeScript&descAlignY=58&descSize=19" alt="Header" />
 
 <!-- Texto animado escribiéndose solo -->
 <a href="https://github.com/AlejoISR">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Alejandro;Desarrollando+APIs+modulares+con+TypeScript+%26+Express;Enfocado+en+c%C3%B3digo+limpio+y+arquitectura+por+capas;Aprendiendo+y+construyendo+proyectos+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Alejandro;Desarrollando+APIs+modulares+con+TypeScript+y+Express;Enfocado+en+c%C3%B3digo+limpio+y+arquitectura+por+capas;Aprendiendo+y+construyendo+proyectos+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
